@@ -7,6 +7,8 @@ On a curved manifold, a straight line between two points is not the shortest dis
 less weights to closer observations. Therefore, smoothing data residing on manifolds requires constructing a kernel that 
 is isotropic along the geodesic curves. With this motivation in mind, we construct the kernel of a heat equation on manifolds 
 that should be isotropic in the local conformal coordinates, and develop a framework for heat kernel smoothing on manifolds. 
+Run MATLAb Live Script [SCRIPT.mlx](https://github.com/laplcebeltrami/hk/blob/main/SCRIPT.mlx).
+
 
 References: 
 [1] Chung, M.K., Robbins,S., Dalton, K.M., Davidson, Alexander, A.L., R.J., Evans, A.C. 2005. Cortical thickness analysis in autism 
@@ -20,4 +22,3 @@ http://www.stat.wisc.edu/%7Emchung/papers/IPMI/hk.IPMI.2005.pdf
 
 % (C) 2005 Moo K. Chung
 % Univesity of Wisconsin-Madison
-%
