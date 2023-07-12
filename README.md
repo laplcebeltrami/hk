@@ -20,5 +20,4 @@ in Medical Imaging (IPMI). Lecture Notes in Computer Science (LNCS) 3565:627-638
 http://www.stat.wisc.edu/%7Emchung/papers/IPMI/hk.IPMI.2005.pdf
 
 
-% (C) 2005 Moo K. Chung
-% Univesity of Wisconsin-Madison
+(C) 2005 Moo K. Chung, Univesity of Wisconsin-Madison
