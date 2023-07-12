@@ -2,7 +2,7 @@
 
 Gaussian kernel smoothing has been widely used in 3D brain images to increase the signal-to-noise ratio. 
 The Gaussian kernel weights observations according to their Euclidean distance. When the observations lie on 
-a convoluted brain surface; it is more natural to assign the weight based on the geodesic distance along the surface [1-3]. 
+a convoluted brain surface; it is more natural to assign the weight based on the geodesic distance along the surface [1-2]. 
 On a curved manifold, a straight line between two points is not the shortest distance so one may incorrectly assign 
 less weights to closer observations. Therefore, smoothing data residing on manifolds requires constructing a kernel that 
 is isotropic along the geodesic curves. With this motivation in mind, we construct the kernel of a heat equation on manifolds 
@@ -11,6 +11,7 @@ Run MATLAb Live Script [SCRIPT.mlx](https://github.com/laplcebeltrami/hk/blob/ma
 
 
 References: 
+
 [1] Chung, M.K., Robbins,S., Dalton, K.M., Davidson, Alexander, A.L., R.J., Evans, A.C. 2005. Cortical thickness analysis in autism 
 via heat kernel smoothing. NeuroImage 25:1256-1265 
 http://www.stat.wisc.edu/%7Emchung/papers/ni_heatkernel.pdf
