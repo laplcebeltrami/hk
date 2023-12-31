@@ -9,7 +9,6 @@ is isotropic along the geodesic curves. With this motivation in mind, we constru
 that should be isotropic in the local conformal coordinates, and develop a framework for heat kernel smoothing on manifolds. 
 Run MATLAb Live Script [SCRIPT.mlx](https://github.com/laplcebeltrami/hk/blob/main/SCRIPT.mlx).
 
-
 References: 
 
 [1] Chung, M.K., Robbins,S., Dalton, K.M., Davidson, Alexander, A.L., R.J., Evans, A.C. 2005. Cortical thickness analysis in autism 
@@ -20,5 +19,5 @@ http://www.stat.wisc.edu/%7Emchung/papers/ni_heatkernel.pdf
 in Medical Imaging (IPMI). Lecture Notes in Computer Science (LNCS) 3565:627-638. Springer-Verlag.
 http://www.stat.wisc.edu/%7Emchung/papers/IPMI/hk.IPMI.2005.pdf
 
-
-(C) 2005 Moo K. Chung, Univesity of Wisconsin-Madison
+Last update, 2023 December 31: two-sample t-field included. 
+(C) 2005- Moo K. Chung, Univesity of Wisconsin-Madison
