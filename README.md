@@ -20,4 +20,5 @@ in Medical Imaging (IPMI). Lecture Notes in Computer Science (LNCS) 3565:627-638
 http://www.stat.wisc.edu/%7Emchung/papers/IPMI/hk.IPMI.2005.pdf
 
 Last update, 2023 December 31: two-sample t-field included. 
+
 (C) 2005- Moo K. Chung, Univesity of Wisconsin-Madison
